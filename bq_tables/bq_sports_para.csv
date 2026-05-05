@@ -1,0 +1,47 @@
+sport_id,sport_name,total_athletes
+SPT_Para_Track_and_Field,Para Track and Field,128
+SPT_Para_Swimming,Para Swimming,91
+SPT_Wheelchair_Basketball,Wheelchair Basketball,60
+SPT_Para-Cycling,Para-Cycling,57
+SPT_Para_Alpine_Skiing,Para Alpine Skiing,45
+SPT_Sitting_Volleyball,Sitting Volleyball,34
+SPT_Sled_Hockey,Sled Hockey,31
+SPT_Para_Snowboarding,Para Snowboarding,25
+SPT_Para-Rowing,Para-Rowing,25
+SPT_Para_Nordic_Skiing,Para Nordic Skiing,23
+SPT_Wheelchair_Rugby,Wheelchair Rugby,21
+SPT_Goalball,Goalball,20
+SPT_Paratriathlon,Paratriathlon,17
+SPT_Para_Shooting,Para Shooting,15
+SPT_Para_Archery,Para Archery,15
+SPT_Soccer,Soccer,14
+SPT_Wheelchair_Curling,Wheelchair Curling,12
+SPT_Wheelchair_Fencing,Wheelchair Fencing,11
+SPT_Para-Equestrian,Para-Equestrian,11
+SPT_Wheelchair_Tennis,Wheelchair Tennis,11
+SPT_Sailing,Sailing,10
+SPT_Canoe/Kayak,Canoe/Kayak,9
+SPT_Table_Tennis,Table Tennis,8
+SPT_Triathlon,Triathlon,7
+SPT_Para_Judo,Para Judo,7
+SPT_Para_Powerlifting,Para Powerlifting,5
+SPT_Judo,Judo,5
+SPT_Para_Table_Tennis,Para Table Tennis,4
+SPT_Soccer_7-A-Side,Soccer 7-A-Side,4
+SPT_Para_Taekwondo,Para Taekwondo,3
+SPT_Boccia,Boccia,3
+SPT_Track_and_Field,Track and Field,2
+SPT_Para_Badminton,Para Badminton,2
+SPT_Paracanoe,Paracanoe,2
+"SPT_Para_Nordic_Skiing,_Para_Track_and_Field","Para Nordic Skiing, Para Track and Field",2
+"SPT_Sled_Hockey,_Paracanoe","Sled Hockey, Paracanoe",1
+"SPT_Sled_Hockey,_Para_Nordic_Skiing","Sled Hockey, Para Nordic Skiing",1
+"SPT_Para_Nordic_Skiing,_Para_Biathlon","Para Nordic Skiing, Para Biathlon",1
+"SPT_Table_Tennis,_Swimming","Table Tennis, Swimming",1
+"SPT_Paratriathlon,_Para_Nordic_Skiing,_Para_Biathlon","Paratriathlon, Para Nordic Skiing, Para Biathlon",1
+"SPT_Para_Nordic_Skiing,_Para_Biathlon,_Para-Cycling,_Para-Rowing","Para Nordic Skiing, Para Biathlon, Para-Cycling, Para-Rowing",1
+"SPT_Para_Archery,_Wheelchair_Basketball,_Para_Track_and_Field","Para Archery, Wheelchair Basketball, Para Track and Field",1
+"SPT_Wheelchair_Basketball,_Wheelchair_Tennis","Wheelchair Basketball, Wheelchair Tennis",1
+"SPT_Para_Alpine_Skiing,_Para_Biathlon","Para Alpine Skiing, Para Biathlon",1
+"SPT_Wheelchair_Curling,_Sitting_Volleyball","Wheelchair Curling, Sitting Volleyball",1
+SPT_3x3_Basketball,3x3 Basketball,1

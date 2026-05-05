@@ -1,0 +1,11 @@
+Flask==2.3.0
+Flask-CORS==4.0.0
+google-cloud-bigquery==3.13.0
+google-cloud-aiplatform
+google-generativeai
+python-dotenv==1.0.0
+gunicorn==21.2.0
+pandas
+numpy
+db-dtypes
+pyarrow

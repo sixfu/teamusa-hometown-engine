@@ -1,0 +1,962 @@
+athlete_id,name,birth_city,birth_state,sport,is_paralympic
+para_1,Jaclyn			  Hamwey,Boston,MA,Para Snowboarding,True
+para_2,Katie (Holloway) Bridge,Lake Stevens,WA,Sitting Volleyball,True
+para_3,Mason Abbiate,San Diego,CA,Soccer,True
+para_4,Zachary Abbott,Portland,,Para Track and Field,True
+para_5,David Abrahams,Havertown,PA,Para Swimming,True
+para_6,Sarah Adam,Naperville,IL,Wheelchair Rugby,True
+para_7,Blake Adams,Lakeville,,Para Swimming,True
+para_8,Jake Adicoff,Sun Valley,ID,Para Nordic Skiing,True
+para_9,Ariana Aguila-Ramos,Houston,TX,Para Taekwondo,True
+para_10,Chris Ahrens,Pulaski,,Soccer 7-A-Side,True
+para_11,Cristina Albert,Denver,CO,Para Snowboarding,True
+para_12,Alejandro Albor,Elk Grove,,,True
+para_13,Allison Aldrich,Schuyler,,,True
+para_14,Kelly Allen,Kingsford,MI,Canoe/Kayak,True
+para_15,Jazmin Almlie-Ryan,Katy,TX,Para Shooting,True
+para_16,Benjamin Aman,Edmond,OK,Sitting Volleyball,True
+para_17,Danny Andrews,Miami,,,True
+para_18,Cheryl Angelelli-Kornoelje,Detroit,,Para Swimming,True
+para_19,Tim Angle,Somerville,,Sailing,True
+para_20,Chuck Aoki,Minneapolis,MN,Wheelchair Rugby,True
+para_21,Jared Arambula,Valparaiso,IN,Wheelchair Basketball,True
+para_22,Dani Aravich,Boise,ID,"Para Nordic Skiing, Para Track and Field",True
+para_23,Victoria Arlen,Exeter,,Para Swimming,True
+para_24,Jen Armbruster,Portland,OR,Goalball,True
+para_25,Beth Arnoult,Paia,,,True
+para_26,Josie Aslakson,Jordan,MN,Wheelchair Basketball,True
+para_27,Hannah Aspden,Raleigh,NC,Para Swimming,True
+para_28,Evan Austin,Terre Haute,IN,Para Swimming,True
+para_29,Jerome Avery,Lemoore,CA,Para Track and Field,True
+para_30,Femita Ayanbeku,Boston,MA,Para Track and Field,True
+para_31,Mallerie Badgett,Oxford,,,True
+para_32,Joe Bailey,Flushing,,,True
+para_33,Kendall Bailey,La Jolla,,,True
+para_34,Elizabeth Baker,Roswell,GA,Triathlon,True
+para_35,Steve Baldwin,San Diego,CA,Wheelchair Tennis,True
+para_36,Robert Balk,,,Canoe/Kayak,True
+para_37,Maddy Ball,"Delray Beach, Fla.",,,True
+para_38,Lindsay Ball,Benton,,,True
+para_39,Adam Ballou,Virginia Beach,VA,Soccer,True
+para_40,Jasmin Bambur,Granby,CO,Para Alpine Skiing,True
+para_41,Eric Barber,Chicago,,,True
+para_42,Stetson Bardfield,Colorado Springs,CO,Para Shooting,True
+para_43,Jaclyn Barnes,Wadsworth,,,True
+para_44,Shelby Baron,Honolulu,HI,Wheelchair Tennis,True
+para_45,Mark Barr,Davis,CA,Paratriathlon,True
+para_46,Diane Barras,Bethel ,,,True
+para_47,Sydney Barta,Arlington,VA,Para Track and Field,True
+para_48,Bryan Barten,Hart,MI,Wheelchair Tennis,True
+para_49,Monica Bascio,Evergreen,CO,Para-Cycling,True
+para_50,Scout Bassett,Harbor Springs,MI,Para Track and Field,True
+para_51,Mark Bathum,Seattle,WA,Para Alpine Skiing,True
+para_52,Abby Bauleke,Savage,MN,Wheelchair Basketball,True
+para_53,Erik Bayindirli,Deer Mountain,,,True
+para_54,Kayden Beasley,Coats,NC,Sled Hockey,True
+para_55,Kelley Becherer,Sheboygan,,Para Swimming,True
+para_56,Brian Bell,Birmingham,AL,Wheelchair Basketball,True
+para_57,Eric Bennett,Surprise,AZ,Para Archery,True
+para_58,Tyler Bennett,Wadsworth,OH,Soccer,True
+para_59,Haley Beranbaum,Snohomish,WA,Para Swimming,True
+para_60,Joe Berenyi,Aurora,IL,Para-Cycling,True
+para_61,Omar Bermejo,Grand Rapids,MI,Para Nordic Skiing,True
+para_62,Korban Best,Southlake,TX,Para Track and Field,True
+para_63,Natalie Bieule,Pembroke Pines,FL,Para Track and Field,True
+para_64,Sarah Binsfeld,Vadnals Heights,,,True
+para_65,Jordan Bird,Wichita,,,True
+para_66,Jim Bob Bizzell,Odessa,,,True
+para_67,Michael Blabac,Buffalo,,,True
+para_68,Kirk Black,San Antonio,TX,Wheelchair Curling,True
+para_69,Jaydin Blackwell,Oak Park,MI,Para Track and Field,True
+para_70,David Blair,Eagle Mountain,UT,Para Track and Field,True
+para_71,Cheri Blauwet,Larchwood,,,True
+para_72,Adam Bleakney,Mason City,,,True
+para_73,Megan Blunk,Gig Harbor,WA,Wheelchair Basketball,True
+para_74,Bryce Boarman,Colorado Springs,CO,Soccer,True
+para_75,Bobby Body,Eaton Rapids,MI,Para Powerlifting,True
+para_76,Steven Bohlemann,Weston,FL,Soccer,True
+para_77,John Boie,Milton,WI,Wheelchair Basketball,True
+para_78,Sydney Bolen,Cardova,,,True
+para_79,Brett Bolton,Rockledge,FL,Sled Hockey,True
+para_80,Samantha Bosco,Claremont,CA,Para-Cycling,True
+para_81,Kaitlin Bounds,Russellville,AR,Para Track and Field,True
+para_82,Catherine Bouwkamp,Fishers,,,True
+para_83,Ryan Boyle,Monroe,CT,Para-Cycling,True
+para_84,Reilly Boyt,Fort Collins,CO,Para Swimming,True
+para_85,Clayton Brackett,Irvine,CA,Wheelchair Rugby,True
+para_86,Byron Branch,Bellbrook,OH,Wheelchair Fencing,True
+para_87,Mikey Brannigan,Northport,NY,Para Track and Field,True
+para_88,Drew Bremer,Grand Rapids,MI,Soccer,True
+para_89,Josh Brewer,Battle Ground,WA,Wheelchair Rugby,True
+para_90,Matthew Brewer,Huntington Beach,CA,Para Alpine Skiing,True
+para_91,Gregory Brigman,Raeford,NC,Soccer,True
+para_92,Kate Brim,Lowell,MI,Para-Cycling,True
+para_93,Joseph Brinson,Florence,,,True
+para_94,Joey Brinson,Florence,MS,Wheelchair Fencing,True
+para_95,Brickelle Bro,Castle Pines,CO,Para Swimming,True
+para_96,David Brown,St. Louis,MO,Para Track and Field,True
+para_97,Scott Brown,Collingdale,,,True
+para_98,Robert Brown,Moncks Corner,,,True
+para_99,Jamie Brown,Oceanside,CA,Triathlon,True
+para_100,Clara Brown,Falmouth,ME,Para-Cycling,True
+para_101,Tom Brown,Castine,,,True
+para_102,Jennifer Browning,,,Wheelchair Basketball,True
+para_103,Aimee Bruder,Lawrenceburg,,Para Swimming,True
+para_104,Robin Brueckmann,Summerfield,,,True
+para_105,Josh Brunais,Stafford,VA,Soccer,True
+para_106,Barbara Buchan,Mountain Home,,,True
+para_107,Zach Buhler,Huntington,IN,Goalball,True
+para_108,Tyler Burdick,Salt Lake City,UT,Para Snowboarding,True
+para_109,Cody Bureau,Latrobe,PA,Para Swimming,True
+para_110,Monique Burkland Matthews,Ardmore,OK,Sitting Volleyball,True
+para_111,Carl Burnett,Bend,,,True
+para_112,Zachary Burns,Ann Arbor,MI,Para-Rowing,True
+para_113,Sean Burns,Charlotte,,,True
+para_114,Kevin Burton,Erie,CO,"Para Alpine Skiing, Para Biathlon",True
+para_115,Noah Bury,Salt Lake City,UT,Para Alpine Skiing,True
+para_116,Jeff Butler,Fort Wayne,IN,Wheelchair Rugby,True
+para_117,Tyler Byers,Spokane,,,True
+para_118,Candace Cable,,,Track and Field,True
+para_119,Heath Calhoun,Bristol,TN,Para Alpine Skiing,True
+para_120,Mark Calhoun,Bremen,,,True
+para_121,Paul Callahan,Cape Choral,,,True
+para_122,Mary Kate Callahan,"La Grange, Ill.",,,True
+para_123,Kate Callahan,San Antonio,,,True
+para_124,Simona Campbell,Houston,,,True
+para_125,Jeremy Campbell,Perryton,TX,Para Track and Field,True
+para_126,Annie Carey,Boise,ID,Para Track and Field,True
+para_127,Lindsey Carmichael,Lago Vista,,Para Archery,True
+para_128,Tyler Carron,"Berthoud, Colo. ",,Sled Hockey,True
+para_129,Tyler Carter,Topton,PA,Para Alpine Skiing,True
+para_130,Steve Cash,Overland,MT,Sled Hockey,True
+para_131,Sarah Castle,Centennial,,,True
+para_132,Nick Catanzarite,Winter Park,,,True
+para_133,Taylor Chace,Hampton Falls,NH,Sled Hockey,True
+para_134,Hannah Chadwick,El Cerrito,CA,Para-Cycling,True
+para_135,Ryan Chalmers,Churchville,,,True
+para_136,Olivia Chambers,Little Rock,AR,Para Swimming,True
+para_137,Joe Chambers,Davis,,,True
+para_138,Tommy Chasanoff,Bradenton,,,True
+para_139,Will Chesebro,Carmel Valley,,,True
+para_140,Shawn Cheshire,Camillus,NY,Para-Cycling,True
+para_141,Jennifer Chew,Antioch,CA,Wheelchair Basketball,True
+para_142,Jen Chew,Littleton,CO,Wheelchair Basketball,True
+para_143,Jaide Childs,Gainesville,,Para Swimming,True
+para_144,Joe Christiansen,,,Para-Cycling,True
+para_145,Sarah Chung,Crystal Lake,IL,Para Judo,True
+para_146,Leslie Cichocki,Palos Hills,IL,Para Swimming,True
+para_147,Josh Cinnamo,San Diego,CA,Para Track and Field,True
+para_148,Patty Cisneros Prevo,Lake Station,IN,Wheelchair Basketball,True
+para_149,Breanna Clark,Los Angeles,CA,Para Track and Field,True
+para_150,Christopher Clemens,Phoenix,,,True
+para_151,Kortney Clemons,Little Rock,,,True
+para_152,Carson Clough,Charlotte,NC,Paratriathlon,True
+para_153,Dan Cnossen,Topeka,KS,Para Nordic Skiing,True
+para_154,McKenzie Coan,Clarkesville,GA,Para Swimming,True
+para_155,Edwin Cockrell,New Athens,,Para Track and Field,True
+para_156,Arlene Cohen,Breckenridge,CO,Para Snowboarding,True
+para_157,Andy Cohn,San Diego,,,True
+para_158,Zena Cole,"Oregon, Ohio",,Para Track and Field,True
+para_159,Sydney Collier,Ann Arbor,MI,Para-Equestrian,True
+para_160,Patricia Collins,Hackettstown,NJ,Triathlon,True
+para_161,Ben Collins,Seattle,WA,Para-Cycling,True
+para_162,James Connelly,Egg Harbor,,Sled Hockey,True
+para_163,Dennis Connors,Beaverton,OR,Para-Cycling,True
+para_164,Mindy Cook,Celina,OH,Goalball,True
+para_165,Kyle Coon,Carbondale,CO,Paratriathlon,True
+para_166,Jonathan Copsey,,,,True
+para_167,Elizabeth Corso,Newmarket,NH,Para Track and Field,True
+para_168,Lia Coryell,LaCrosse,WI,Para Archery,True
+para_169,Jacob Counts,Covington,,,True
+para_170,Brittani Coury,Durango,CO,Para Snowboarding,True
+para_171,Samuel Craven,Walnut Creek,,,True
+para_172,Owen Cravens,Algonquin,IL,Paratriathlon,True
+para_173,JP Creignou,St Petersburg,,Sailing,True
+para_174,Julie Crisp,Portland,,,True
+para_175,Dartanyon Crockett,Colorado Springs,CO,Para Judo,True
+para_176,Kym Crosby,Yuba City,CA,Para Track and Field,True
+para_177,Audrey Crowley,Eagle,CO,Para Alpine Skiing,True
+para_178,Kelly Crowley,San Francisco,,Para-Cycling,True
+para_179,Cailin Currie,Salem,MA,Para Swimming,True
+para_180,Lisa Czechowski,Boonton,NJ,Goalball,True
+para_181,Skylar Dahl,Minneapolis,MN,Para-Rowing,True
+para_182,Alicia Dana,Putney,VT,Para-Cycling,True
+para_183,Scott Danberg,Cooper City,,,True
+para_184,Owen Daniels,,,Para-Cycling,True
+para_185,Hailey Danz,Colorado Springs,CO,Paratriathlon,True
+para_186,Charles Davis,Grafton,MA,Para Track and Field,True
+para_187,Katie Davis,Sacramento,CA,Judo,True
+para_188,Muffy Davis,Salt Lake City,,Para-Cycling,True
+para_189,Sebestian De Francesco,Santa Cruz,CA,Table Tennis,True
+para_190,Freddie De Los Santos,Hopewell Junction,NY,Para-Cycling,True
+para_191,Sadie DeBaun,Park City,UT,Para Alpine Skiing,True
+para_192,Marco DeLaRosa,Chicago,IL,Para Shooting,True
+para_193,Lauryn DeLuca,Parma,OH,Wheelchair Fencing,True
+para_194,Michael DeMarco,San Diego,,Para Swimming,True
+para_195,Andrea DeMello,New York,,,True
+para_196,Ralph DeQuebec,Denver,CO,Sled Hockey,True
+para_197,Greg DeWall,Chico,,,True
+para_198,Hannah Dederick,Mead,WA,Para Track and Field,True
+para_199,Dale Dedrick,Ann Arbor ,,Para-Equestrian,True
+para_200,Joe Delagrave,Prairie du Chien,WI,Wheelchair Rugby,True
+para_201,Tammy Delano,Rome,NY,Para Shooting,True
+para_202,Kate Delson,San Diego,CA,Para Snowboarding,True
+para_203,Amanda Dennis,Peachtree City,GA,Goalball,True
+para_204,Dave Denniston,Wright ,,,True
+para_205,Steve Denuyl,Kalamazoo,,,True
+para_206,Marc Dervaes,,,,True
+para_207,Chris Devlin-Young,Campton,NH,Para Alpine Skiing,True
+para_208,Carleigh Dewald,Canby,,,True
+para_209,Michael Dickey,Trafford,,Para Shooting,True
+para_210,AJ Digby,Tontogany,OH,Para Track and Field,True
+para_211,Alex Dionne,Mequon,,,True
+para_212,Amy Dixon,Pound Ridge,NY,Triathlon,True
+para_213,Chris Dodds,Logan,,,True
+para_214,Travis Dodson,Deming,NM,"Sled Hockey, Para Nordic Skiing",True
+para_215,Lera Doederlein,Escondido,CA,Para Nordic Skiing,True
+para_216,Rick Doerr,Clifton,NJ,Sailing,True
+para_217,Julia Dorsett,West Chester,,Sailing,True
+para_218,Whitney Dosty,Tucson,AZ,Sitting Volleyball,True
+para_219,Tricia Downing,Denver,CO,Para Shooting,True
+para_220,Tharon Drake,Hobbs,NM,Para Swimming,True
+para_221,Ravi Drugan,Eugene,OR,Para Alpine Skiing,True
+para_222,Heidi Jo Duce,Ouray,,Para Snowboarding,True
+para_223,Eric Duda,Marietta,GA,Sitting Volleyball,True
+para_224,Ryan Duemler,Chesterfield ,,,True
+para_225,Abby Dunkin,New Braunfels,TX,Wheelchair Basketball,True
+para_226,Tucker Dupree,Raleigh,NC,Para Swimming,True
+para_227,Tye Dutcher,Merced,CA,Para Swimming,True
+para_228,Laura Dwyer,Oconomowoc,WI,Wheelchair Curling,True
+para_229,Ashley Dyce,Colton,CA,Para Powerlifting,True
+para_230,Anna Eames,Golden Valley,,Para Swimming,True
+para_231,Kaitlyn Eaton,Houston,TX,Wheelchair Basketball,True
+para_232,Tia Edwards,Skiatook,OK,Sitting Volleyball,True
+para_233,Parker Egbert,Greenwood,SC,Para Swimming,True
+para_234,Eric Eierdam,Las Vegas,NV,,True
+para_235,Yaseen El-Demerdash,Overland Park,KS,Para Swimming,True
+para_236,Emelie Eldracher,Andover,MA,Para-Rowing,True
+para_237,Josh Elliott,Yakima,WA,Para Alpine Skiing,True
+para_238,Noah Elliott,St. Charles,MO,Para Snowboarding,True
+para_239,Kelly Elmlinger,Attica,OH,Paratriathlon,True
+para_240,Jillian Elwart,Little Rock,AR,Paracanoe,True
+para_241,Brad Emmerson,Amherst,,,True
+para_242,Steve Emt,DeForest,WI,Wheelchair Curling,True
+para_243,Eleni Englert,Oceanside,,,True
+para_244,Robert Enigl,Kaukauna,WI,Para Alpine Skiing,True
+para_245,Heather Erickson,Fayetteville,NC,Sitting Volleyball,True
+para_246,Skyler Espinoza,Menlo Park,CA,Para-Cycling,True
+para_247,Ryan Estep,Florence,,,True
+para_248,David Eustace,Stoneham,MA,Sled Hockey,True
+para_249,Grover Evans,Little Rock,,,True
+para_250,Amanda Everlove,Wichita,,Para Swimming,True
+para_251,Sean Ewing,St. Louis,,,True
+para_252,Jeff Fabry,Lemore,CA,Para Archery,True
+para_253,Connor Faint,Winchester,VA,Para Track and Field,True
+para_254,Tre'Shaun Faison,Orange Park,FL,Goalball,True
+para_255,Taylor Farmer,Castalia,OH,Para Shooting,True
+para_256,Declan Farmer,Tampa,FL,Sled Hockey,True
+para_257,Mike Farrell,Colorado Springs,,Para-Cycling,True
+para_258,Tobi Fawehinmi,Arlington,TX,Para Track and Field,True
+para_259,Jenna Fesemyer,Ravenna,OH,Para Track and Field,True
+para_260,Jerrod Fields,Chicago,,,True
+para_261,Lauren Fields,Spokane Valley,WA,Para Track and Field,True
+para_262,Jeremy Finton,Dayton,,,True
+para_263,Megan Fisher,Missoula,MT,Para-Cycling,True
+para_264,AJ Fitzpatrick,Cedar Rapids,IA,Wheelchair Basketball,True
+para_265,Annie Flood,Salem,OR,Sitting Volleyball,True
+para_266,Alex Flynn,Wilmington,MA,Para-Rowing,True
+para_267,Danielle Fong,New York,,Para Shooting,True
+para_268,Pamela Fontaine,Highland Village,TX,Table Tennis,True
+para_269,Anjali Forber-Pratt,Natick,,,True
+para_270,Lee Ford-Faherty,,,Para Archery,True
+para_271,Brian Frasure,Maiden,,,True
+para_272,Ezra Frech,Los Angeles,CA,Para Track and Field,True
+para_273,Emily Frederick,Gadsden,AL,Para Track and Field,True
+para_274,Lee Fredette,East Moriches,NY,Wheelchair Rugby,True
+para_275,Jennifer French,St. Petersburg,,Sailing,True
+para_276,Hugh Freund,South Freeport,ME,Sailing,True
+para_277,Keith Gabel,Ogden,UT,Para Snowboarding,True
+para_278,Gail Gaeng,Frederick,MD,Wheelchair Basketball,True
+para_279,Travis Gaertner,Burien,WA,Para-Cycling,True
+para_280,Julia Gaffney,Mayflower,AR,Para Swimming,True
+para_281,Mike Gallardo,Los Angeles,CA,Para Track and Field,True
+para_282,Jessica Galli,Savoy,,,True
+para_283,Christella Garcia,Sacramento,CA,Para Judo,True
+para_284,Rudy Garcia-Tolson,Colorado Springs,CO,Para Swimming,True
+para_285,Elouan Gardon,Acme,WA,Para-Cycling,True
+para_286,David Garza,San Diego,CA,Soccer,True
+para_287,Abby Gase,Tontogany,OH,Para Swimming,True
+para_288,Ryan Gautieri,Park City,,,True
+para_289,Ellen Geddes,Aiken,SC,Wheelchair Fencing,True
+para_290,McKenna Geer,Arlington,WA,Para Shooting,True
+para_291,Joshua George,Herndon,VA,Para Track and Field,True
+para_292,Michelle Gerlosky Schiffler,Lake Wales,,,True
+para_293,Russell Gernaat,Redwood City,CA,Para-Rowing,True
+para_294,Garrett Geros,Cartersville,GA,Para Snowboarding,True
+para_295,Tanner Gers,Tucson,,,True
+para_296,Alyssa Gialamas,Naperville,IL,Para Swimming,True
+para_297,John Gilbert,Fairfax,MO,Wheelchair Basketball,True
+para_298,Lex Gillette,Raleigh,NC,Para Track and Field,True
+para_299,Jeff Glasbrenner,Boscobel,,,True
+para_300,Michael Godfrey,Dublin,TX,Table Tennis,True
+para_301,Jennifer Goeckel,Seattle,,Track and Field,True
+para_302,Joel Gomez,Encinitas,CA,Para Track and Field,True
+para_303,YanXiao Gong,Malibu,CA,Para Shooting,True
+para_304,Loraine Gonzales,Tyler,,Wheelchair Basketball,True
+para_305,Ixhelt Gonzalez,Chicago,IL,Wheelchair Basketball,True
+para_306,Laura Goodkind,Los Angeles,CA,Para-Rowing,True
+para_307,Benjamin Goodrich,St. Paul,MN,Para Judo,True
+para_308,Jonathan Gore,Fayetteville,WV,Para Track and Field,True
+para_309,Peter Gottwald,West Chester,,Para Track and Field,True
+para_310,Aaron Gouge,Dallas,TX,Wheelchair Basketball,True
+para_311,Alex Gouldie,St. Paul,,,True
+para_312,Barbara Grassmyer,Pleasonton,,Para-Equestrian,True
+para_313,Roderick Green,West Monroe,LA,Sitting Volleyball,True
+para_314,Ralph Green,Brooklyn,NY,Para Alpine Skiing,True
+para_315,Kendall Gretsch,Downers Grove,IL,"Paratriathlon, Para Nordic Skiing, Para Biathlon",True
+para_316,Sam Grewe,Middlebury,IN,Para Track and Field,True
+para_317,Tysheem Griffin,Amityville,NY,Para Track and Field,True
+para_318,Lindsay Grogan,Macon,GA,Para Swimming,True
+para_319,Will Groulx,Portland,OR,Para-Cycling,True
+para_320,Noah Grove,Frederick,MD,Sled Hockey,True
+para_321,Deb Gruen,Hamden,,Para Swimming,True
+para_322,Catarina Guimaraes,Cranford,NJ,Para Track and Field,True
+para_323,Tyson Gunter,McCammon,ID,Para Track and Field,True
+para_324,Susan Hagel,Minneapolis,MN,"Para Archery, Wheelchair Basketball, Para Track and Field",True
+para_325,Patrick Halgren,Tolland,CT,Para Alpine Skiing,True
+para_326,Alexa Halko,Williamsburg,VA,Para Track and Field,True
+para_327,Sean Halsted,Rathdrum,ID,Para Nordic Skiing,True
+para_328,Joe Hamilton,Sacramento,CA,Goalball,True
+para_329,Chris Hammer,Elkins,WV,Paratriathlon,True
+para_330,Billy Hanning,"High Ridge, Mo.",,Sled Hockey,True
+para_331,Danielle Hansen,Patterson,CA,Para-Rowing,True
+para_332,Austin Hanson,Topeka,,Boccia,True
+para_333,Noah Hanssen,Ellicott City,MD,Wheelchair Fencing,True
+para_334,Andrew Haraghey,Enfield,CT,Para Alpine Skiing,True
+para_335,Megan Harmon,Huntsville,AL,Para Snowboarding,True
+para_336,Saige Harper,Easthampton,MA,Para-Rowing,True
+para_337,Jaquvis Hart,Bossier City,LA,Para Track and Field,True
+para_338,Rebecca Hart,Erie,PA,Para-Equestrian,True
+para_339,Ron Harvey,Downingtown,,Para-Rowing,True
+para_340,Beatriz Hatz,Lakewood,CO,Para Track and Field,True
+para_341,Timothy Hawker,Toledo,,Boccia,True
+para_342,Sabra Hawkes,Rockport ,,,True
+para_343,Ron Hawthorne,Colorado Springs,CO,Judo,True
+para_344,Blake Haxton,Columbus,OH,Paracanoe,True
+para_345,Gerald Hayden,Winter Park,CO,Para Alpine Skiing,True
+para_346,Terry Hayes,North Fort Meyers,FL,Wheelchair Fencing,True
+para_347,Jonathan Heider,Green Bay,,,True
+para_348,Jessica Heims,Swisher,IA,Para Track and Field,True
+para_349,Derrick Helton,Tuscumbia,,,True
+para_350,Lacey Henderson,Denver,CO,Para Track and Field,True
+para_351,Alex Hendricks,Columbus,OH,Soccer,True
+para_352,Ray Hennagir,Deptford,NJ,Wheelchair Rugby,True
+para_353,Kevin Hensley,Memphis,TN,Soccer,True
+para_354,Dalton Herendeen,Elkhart,IN,Para Swimming,True
+para_355,McClain Hermes,Dacula,GA,Para Swimming,True
+para_356,Sophia Herzog,Fairplay,CO,Para Swimming,True
+para_357,Tami Hetke,Boulder Creek,,,True
+para_358,Samantha Heyison,Adamstown,MD,Para Track and Field,True
+para_359,Erik Hightower,Pheonix,AZ,Para Track and Field,True
+para_360,Jamal Hill,Inglewood,CA,Para Swimming,True
+para_361,Lee Hinson,"Wallan, Victoria",,,True
+para_362,Nate Hinze,Cedar Grove,WI,Wheelchair Basketball,True
+para_363,Yen Hoang,Vancouver,WA,Para Track and Field,True
+para_364,Daniel Hoffman,Baltimore,MD,Soccer,True
+para_365,Ben Hoffman,,,Paratriathlon,True
+para_366,Carlee Hoffman-Schwarz,Cutlerville,MI,Wheelchair Basketball,True
+para_367,Connor Hogan,Foxborough,MA,Para Alpine Skiing,True
+para_368,Scott Hogsett,Spokane,,,True
+para_369,Eric Hollen,Colorado Springs,,Para Shooting,True
+para_370,Rose Hollermann,Elysian,MN,Wheelchair Basketball,True
+para_371,April Holmes,Kissimmee,FL,Para Track and Field,True
+para_372,Emily Hoskins,Mascoutah,IL,Wheelchair Basketball,True
+para_373,Eva Houston,Omaha,NE,Para Track and Field,True
+para_374,Joseph Howard,Kingston ,,,True
+para_375,"Christopher ""CJ"" Howard","Sacramento, CA",,,True
+para_376,Fiona Howard,Boston,MA,Para-Equestrian,True
+para_377,Brenna Huckaby,Baton Rouge,LA,Para Snowboarding,True
+para_378,Brad Hudspeth,Stilwell,KS,Wheelchair Rugby,True
+para_379,Marybai Huking,Salt Lake City,UT,Goalball,True
+para_380,Joel Hunt,Kokomo,IN,Para Alpine Skiing,True
+para_381,Darlene Hunter,Commerce,MI,Wheelchair Basketball,True
+para_382,Gianfranco Iannotta,Garfield,NJ,Para Track and Field,True
+para_383,Ali Ibanez,Murray,UT,Wheelchair Basketball,True
+para_384,Tony Iniguez,Bolingbrook,,,True
+para_385,Victoria Isaacson,Poughkeepsie,NY,Wheelchair Fencing,True
+para_386,Joe Jackson,Maricopa,AZ,Wheelchair Rugby,True
+para_387,Desmond Jackson,Durham,NC,Para Track and Field,True
+para_388,Steven Jacobo,Gardnerville,,,True
+para_389,Noah Jaffe,Carlsbad,CA,Para Swimming,True
+para_390,Seth Jahn,Lakeland,FL,Soccer,True
+para_391,Stephanie Jallen,Harding,PA,Para Alpine Skiing,True
+para_392,Josiah Jamison,Vance,SC,Para Track and Field,True
+para_393,Ian Jansing,St. Louis,MO,Para Alpine Skiing,True
+para_394,Isaac Jean-Paul,Evanston,IL,Para Track and Field,True
+para_395,Trevon Jenifer,Huntingtown,MD,Wheelchair Basketball,True
+para_396,Mikaela Jenkins,Evansville,IN,Para Swimming,True
+para_397,Andrew Jenks,Wilmington,DE,Goalball,True
+para_398,Brenda Jensen,Sellersburg,,,True
+para_399,Shelby Jensen,Salt Lake City,UT,Wheelchair Fencing,True
+para_400,Ayden Jent,"Indianapolis, Ind. ",IN,Para Track and Field,True
+para_401,Anna Johannes,Colorado Springs,,Para Swimming,True
+para_402,Andrew Johnson,Riverside ,,Para-Rowing,True
+para_403,Allie Johnson,Chicago,IL,Para Alpine Skiing,True
+para_404,Keith Johnson,Anchorage,,3x3 Basketball,True
+para_405,Brad Johnson,Pompano Beach,,,True
+para_406,Casey Johnson,Cypress,,,True
+para_407,Jennifer Johnson,Port Chester,NY,Table Tennis,True
+para_408,Scott Jones,Little Rock,,,True
+para_409,Chad Jones,Virginia Beach,,,True
+para_410,Cody Jones,Simi Valley,CA,Para Track and Field,True
+para_411,Malik Jones,Aurora,CO,Sled Hockey,True
+para_412,Allison Jones,Colorado Springs,CO,Para-Cycling,True
+para_413,Rob Jones,Lovettsville,,,True
+para_414,Tim Jones,Mt. Ephraim,,,True
+para_415,Cortney Jordan,Henderson ,NV,Para Swimming,True
+para_416,James Joseph,New Hartford,NY,Wheelchair Curling,True
+para_417,John Joss,Corsicana,TX,Para Shooting,True
+para_418,Talen Jourdan,Deerfield,WI,Wheelchair Basketball,True
+para_419,Cody Jung,San Diego,CA,Para-Cycling,True
+para_420,Emmy Kaiser,Ft. Mitchell,KY,Wheelchair Tennis,True
+para_421,Daniel Kamber,Colorado Springs,,,True
+para_422,Kaleo Kanahele Maclay,Oahu,HI,Sitting Volleyball,True
+para_423,Jacqui Kapinowski,Tequesta,FL,Para-Rowing,True
+para_424,Jacqueline Kapinowski,Point Pleasant,,,True
+para_425,Abbas Karimi,Fort Lauderdale,FL,Para Swimming,True
+para_426,Jesse Karmazin,Palm Beach Gardens,,Para-Rowing,True
+para_427,Susan Katz,Olney,MD,Wheelchair Basketball,True
+para_428,Sam Kavanagh,Bozeman,,Para-Cycling,True
+para_429,Jesse Keefe,Sun Valley,ID,Para Alpine Skiing,True
+para_430,Aaron Keith,Woodinville,WA,Para-Cycling,True
+para_431,Brad Kendell,Clearwater,FL,Sailing,True
+para_432,Jill Kennedy,Zalma,,,True
+para_433,Erin Kerkhoff,Coralville,IA,Para Track and Field,True
+para_434,April Kerley,Cincinnati ,,,True
+para_435,David Kiley,,,Wheelchair Basketball,True
+para_436,Ricci Kilgore,Reno,,,True
+para_437,Serafina King,Santa Monica,CA,Para-Rowing,True
+para_438,Christian King,Virginia Beach,VA,Goalball,True
+para_439,Lauren Kintzing,,,,True
+para_440,Bryan Kirkland,Leeds,,Wheelchair Rugby,True
+para_441,Michael		 Kneeland,Bozeman,MT,"Para Nordic Skiing, Para Biathlon",True
+para_442,Keegan Knott,Lake Villa,IL,Para Swimming,True
+para_443,Beth Kolbe,Tiffin,,Para Swimming,True
+para_444,Michelle Konkoly,Eagleville,PA,Para Swimming,True
+para_445,Miles Krajewski,Yankton,SD,Para Badminton,True
+para_446,John Kremer,Buford,GA,Sitting Volleyball,True
+para_447,SuGui Kriss,Ravena,,Sitting Volleyball,True
+para_448,Katie Kubiak,Cedarburg,WI,Para Swimming,True
+para_449,Allison Kunkel,Steamboat Springs,CO,Para Alpine Skiing,True
+para_450,Andrew Kurka,Palmer,AK,Para Alpine Skiing,True
+para_451,John Kusku,Commerce Township,MI,Goalball,True
+para_452,Griffin LaMarre,Haverville,MA,Sled Hockey,True
+para_453,Will Lachenauer,Reno,NV,Para-Cycling,True
+para_454,Jeremy Lade,Oconto,,,True
+para_455,Edgar Laforest,San Juan,,Sitting Volleyball,True
+para_456,Mohamed Lahna,Hayward,CA,Paratriathlon,True
+para_457,Lantz Lamback,Augusta,,Para Swimming,True
+para_458,Noelle Lambert,Manchester,NH,Para Track and Field,True
+para_459,Kendra Lancaster,Westfield,IN,Sitting Volleyball,True
+para_460,Nikko Landeros,"Berthoud, Colo. ",,Sled Hockey,True
+para_461,Hagan Landry,Delcambre,LA,Para Track and Field,True
+para_462,Jared Lane,Piscataway,NJ,Para Track and Field,True
+para_463,Teresa Lannon,,,Wheelchair Basketball,True
+para_464,Bryan Larsen,Windsor,CA,,True
+para_465,Stephen Lawler,Burlington,VT,Para Alpine Skiing,True
+para_466,Mark LeBlanc,New Orleans,,,True
+para_467,Kelsey LeFevour,Chicago,IL,Para Track and Field,True
+para_468,Chuck Lear,Lee's Summit,,,True
+para_469,Jen Lee,San Francisco,CA,Sled Hockey,True
+para_470,David Lee,Cardiff-by-the-Sea,,,True
+para_471,Blake Leeper,Kingsport,TN,Para Track and Field,True
+para_472,Tahl Leibovitz,Ozone Park,NY,Para Table Tennis,True
+para_473,Cheryl Leitner,Toms River,,,True
+para_474,Carlos Leon,North Lauderdale,,,True
+para_475,Matt Lesperance,Coleman,WI,Wheelchair Basketball,True
+para_476,Ahalya Lettenberger,Glen Ellyn,IL,Para Swimming,True
+para_477,Hope Lewellen,Palos Park,,,True
+para_478,Danell Libby,Chatham,,,True
+para_479,Meghan Lino,East Falmouth,MA,Wheelchair Curling,True
+para_480,Taylor Lipsett,Mesquite,TX,Sled Hockey,True
+para_481,Billy Lister,"Cold Spring Harbor, N.Y.",NY,Para-Cycling,True
+para_482,Rebecca Lloyd,Lima,,,True
+para_483,Wayne Lo,Sunnyvale,CA,Table Tennis,True
+para_484,Derek Loccident,Oklahoma City,OK,Para Track and Field,True
+para_485,Jessica Long,Baltimore,MD,Para Swimming,True
+para_486,Jessica Lorenz,Berkeley,,Goalball,True
+para_487,Curtis Lovejoy,Atlanta,,Para Swimming,True
+para_488,Luba Lowery,Cumberland Foreside,,,True
+para_489,Jon Lujan,Littleton,CO,Para Alpine Skiing,True
+para_490,Michael Lukow,Salt Lake City,,,True
+para_491,Sara Luna,Chicago,IL,Judo,True
+para_492,Norm Lyduch,Austin,,,True
+para_493,Ian Lynch,Brooklyn Park,MN,Wheelchair Basketball,True
+para_494,Brandon Lyons,Mechanicsburg,PA,Para-Cycling,True
+para_495,Dawn Macomber,,,,True
+para_496,Katlyn Maddry,Wasilla,AK,Para Snowboarding,True
+para_497,Cheri Madsen,Nebraska City,NE,Para Track and Field,True
+para_498,Angela Madsen,Long Beach,CA,Para Track and Field,True
+para_499,Noelle Malkamaki,Decatur,IL,Para Track and Field,True
+para_500,Greg Mallory,Portland,,Para Nordic Skiing,True
+para_501,Noah Malone,Fishers,IN,Para Track and Field,True
+para_502,Mark Mann,Eden Prairie,MN,Para Snowboarding,True
+para_503,Staci Mannella,Randolph,NJ,Para Alpine Skiing,True
+para_504,Lindi Marcusen,Spokane,WA,Para Track and Field,True
+para_505,J. Dee Marinko,Newcastle,OK,Sitting Volleyball,True
+para_506,Elizabeth Marks,Colorado Springs,CO,Para Swimming,True
+para_507,Justin Marshall,Evansville,WI,Wheelchair Curling,True
+para_508,Paul Martin,Minneapolis,,,True
+para_509,Jeffrey Scott Martin,Colorado Springs,CO,Para-Cycling,True
+para_510,Raymond Martin,Jersey City,NJ,Para Track and Field,True
+para_511,Erin Martin,Seattle,WA,Para Nordic Skiing,True
+para_512,Letticia Martinez,Las Cruces,NM,Para Swimming,True
+para_513,Brittni Mason,Cleveland,OH,Para Track and Field,True
+para_514,Eliana Mason,Beaverton,OR,Goalball,True
+para_515,Oksana Masters,Louisville,KY,"Para Nordic Skiing, Para Biathlon, Para-Cycling, Para-Rowing",True
+para_516,Jeff Mata,Poway,CA,Para Judo,True
+para_517,Fatu Matagi,Herriman,,,True
+para_518,Kevin Mather,Santa Clarita,CA,Para Archery,True
+para_519,Dana Mathewson,San Diego,CA,Wheelchair Tennis,True
+para_520,Nick Mayhugh,Manassas,VA,Para Track and Field,True
+para_521,Brenda Maymon Jensen,Sellersburg,,,True
+para_522,"Howard Mayo, Jr.",Roosevelt,NY,Boccia,True
+para_523,Centra Mazyck,Columbia ,,,True
+para_524,Jaime Mazzi,Dorchester,,,True
+para_525,Seth McBride,Juneau,AK,Wheelchair Rugby,True
+para_526,Jackson McCabe,Boulder,CO,Soccer 7-A-Side,True
+para_527,Joe McCarthy,Imperial Beach,,,True
+para_528,Chelsea McClammer,Richland,WA,Para Track and Field,True
+para_529,Dan McCoy,Cheswich,PA,Sled Hockey,True
+para_530,Lucas McCrory,Chapel Hill,NC,Para Swimming,True
+para_531,Richard McCullough,,,,True
+para_532,Luke McDermott,"Westerlo, N.Y.",,Sled Hockey,True
+para_533,Eric McElvenny,Pittsburgh,PA,Paratriathlon,True
+para_534,Hannah McFadden,Clarksville,MD,Para Track and Field,True
+para_535,Tatyana McFadden,Baltimore,MD,Para Track and Field,True
+para_536,Amanda McGrory,Savoy,IL,Para Track and Field,True
+para_537,Margaret McIntosh,Reading,PA,Para-Equestrian,True
+para_538,Kevin McKee,Davenport ,IA,Sled Hockey,True
+para_539,Tyler McKenzie,Leominster,MA,Para Alpine Skiing,True
+para_540,Josh McKinney,Raleigh,,,True
+para_541,Maureen McKinnon,Marblehead,MA,Sailing,True
+para_542,Gina McWilliams,Dallas,,,True
+para_543,Evan Medell,Grand Haven,MI,Para Taekwondo,True
+para_544,Ryan Medrano,Savannah,GA,Para Track and Field,True
+para_545,Monte Meier,Park City,,,True
+para_546,Chuck Melton,Richview,IL,Wheelchair Rugby,True
+para_547,Leo Merle,Folsom,CA,Para Track and Field,True
+para_548,Tyler Merren,Fort Wayne,IN,Goalball,True
+para_549,Trenten Merrill,San Juan Capistrano,CA,Para Track and Field,True
+para_550,Joshua Merryman,Mount Pleasant,,,True
+para_551,Kristen Messer,Austin,,,True
+para_552,Scott Meyer,Frisco,CO,Para Alpine Skiing,True
+para_553,Jeromie Meyer II,Woodbine,IA,Wheelchair Basketball,True
+para_554,Emma Meyers,Pensacola,FL,Paratriathlon,True
+para_555,Becca Meyers,Baltimore,MD,Para Swimming,True
+para_556,Tom Miazga,Milwaukee,,Para Swimming,True
+para_557,Donte' Mickens,West Palm Beach,,Goalball,True
+para_558,Arelle Middleton,Rancho Cucamonga,CA,Para Track and Field,True
+para_559,Mary Alison Milford,Magnolia,,,True
+para_560,Nichole Millage,Champaign,IL,Sitting Volleyball,True
+para_561,Desiree Miller,Monroe,WA,Wheelchair Basketball,True
+para_562,Zachary Miller,Silverthorne,CO,Para Snowboarding,True
+para_563,Grace Miller,Palmer,AK,Para Nordic Skiing,True
+para_564,Asya Miller,Portland,OR,Goalball,True
+para_565,Kari Miller,Washington D.C.,,Sitting Volleyball,True
+para_566,Mike Minor,Frisco,CO,Para Snowboarding,True
+para_567,Elizabeth Mis,"Medina, OH",,,True
+para_568,Josh Misiewicz,La Grange,IL,Sled Hockey,True
+para_569,Royal Mitchell,Hardeeville,,,True
+para_570,Cassie Mitchell,Warner ,OK,Para Track and Field,True
+para_571,Janna Mizens,Auburn,WA,Wheelchair Basketball,True
+para_572,Dan Monzo,Glenwood,NJ,Para Snowboarding,True
+para_573,Bailey Moody,Alpharetta,GA,Wheelchair Basketball,True
+para_574,Paul Moran,Chicago,,,True
+para_575,Shawn Morelli,Meadville,PA,Para-Cycling,True
+para_576,Gerard Moreno,Los Angeles,,,True
+para_577,Kerri Morgan,St. Louis,MO,Para Track and Field,True
+para_578,Rachael Morrison,Farmington Hills,MI,Para Track and Field,True
+para_579,Ivonne Mosquera-Schmidt,Bogota,,Para Track and Field,True
+para_580,Eddie Munro,St. Augustine,,,True
+para_581,Chris Murphy,Rancho Cucamonga,CA,Para-Cycling,True
+para_582,Michael Murray,Nashville,TN,Para Track and Field,True
+para_583,Joe Murray,Burlington,NC,Para Swimming,True
+para_584,Becca Murray,Germantown,WI,Wheelchair Basketball,True
+para_585,Maria Liana Mutia,Raleigh,NC,Para Judo,True
+para_586,Abbey Nardella,Maple Valley,WA,Para Swimming,True
+para_587,Greta Neimanas,Chicago ,,Para-Cycling,True
+para_588,Ryan Neiswender,Lebanon,PA,Wheelchair Basketball,True
+para_589,Jason Nelms,Emmett,,,True
+para_590,Max Nelson,Grant,MN,Para Nordic Skiing,True
+para_591,Eric Newby,Nashville,IL,Wheelchair Rugby,True
+para_592,Keith Newerla,King of Prussia,,,True
+para_593,Kevin Nguyen,Westminster,CA,Para Shooting,True
+para_594,Evan Nichols,Haymarket,VA,Sled Hockey,True
+para_595,Alana Nichols,Farmington,NM,Canoe/Kayak,True
+para_596,Makayla Nietzel,Crystal Lake,IL,Para Swimming,True
+para_597,Nicky Nieves,Kissimmee,FL,Sitting Volleyball,True
+para_598,Noga Nir-Kistler,Allentown,PA,"Table Tennis, Swimming",True
+para_599,Paul Nitz,Edina,MN,Para Track and Field,True
+para_600,Charley Nordin,Alameda,CA,Para-Rowing,True
+para_601,Grace Norman,Jamestown,OH,Paratriathlon,True
+para_602,Grace Nuhfer,Indianapolis,IN,Para Swimming,True
+para_603,Kelsey  O'Driscoll,Glens Falls,NY,Para Alpine Skiing,True
+para_604,Jack O'Neil,Colorado Springs,CO,Para Swimming,True
+para_605,Josh O'Neill,Colorado Springs,CO,Wheelchair Rugby,True
+para_606,Emily Oberst,Chicago,WI,Wheelchair Basketball,True
+para_607,Dennis Ogbe,Prospect,KY,,True
+para_608,Joshua Olson,Spokane,,Para Shooting,True
+para_609,John Oman,Barron,WI,Para Nordic Skiing,True
+para_610,Tracy Otto,Plant City,FL,Para Archery,True
+para_611,Ashley Owens,Stockbridge,,,True
+para_612,Ryan Padilla,Gig Harbor,WA,Canoe/Kayak,True
+para_613,David Page,Jacksonville,FL,Para Powerlifting,True
+para_614,Adam Page,Lancaster,NY,Sled Hockey,True
+para_615,Anastasia Pagonis,Long Island,NY,Para Swimming,True
+para_616,David Palmer,Mashpee,,,True
+para_617,Jamey Parks,Forest,VA,Canoe/Kayak,True
+para_618,Noel Parnell,Philadelphia,,,True
+para_619,Patrick Parnell,Columbia,CT,Para Alpine Skiing,True
+para_620,Josh Pauls,Green Brook,NJ,Sled Hockey,True
+para_621,Aaron Paulson,Portland,,Para Swimming,True
+para_622,Michael Paye,Warren,MI,Wheelchair Basketball,True
+para_623,Steven Peace,Albion,,Para-Cycling,True
+para_624,Angela Peavy,Avon,CT,Para-Equestrian,True
+para_625,Anthony Pedeferri,Redmond,,Para-Cycling,True
+para_626,T.J. Pemberton,Edmond,,,True
+para_627,Jermell Pennie,Port Arthur,TX,Wheelchair Basketball,True
+para_628,Hannah Pennington,Winter Park,CO,Canoe/Kayak,True
+para_629,Joey Peppersack,Hopewell,VA,Para Swimming,True
+para_630,Augusto Perez,East Syracuse,NY,Para Nordic Skiing,True
+para_631,Goose Perez,Syracuse,,,True
+para_632,Gia Pergolini,Atlanta,GA,Para Swimming,True
+para_633,Roy Perkins,Del Mar,CA,Para Swimming,True
+para_634,Emelia Perry,Philadelphia,PA,Paratriathlon,True
+para_635,Jarrett Perry,Wichita,,,True
+para_636,Sydney Peterson,Lake Elmo,MN,Para Nordic Skiing,True
+para_637,Paul Peterson III,Charlotte,NC,,True
+para_638,Karen Petrik,Glastonbury,CT,Para-Rowing,True
+para_639,Maylee Phelps,Portland,OR,Wheelchair Tennis,True
+para_640,Justin Phongsavanh,Des Moines,IA,Para Track and Field,True
+para_641,James Pierce,North Syracuse,,,True
+para_642,Jonny Pierce,Torrance,CA,Para Swimming,True
+para_643,Aaron Pike,Park Rapids,MN,"Para Nordic Skiing, Para Track and Field",True
+para_644,Ryan Pinney,Pheonix,AZ,Para-Cycling,True
+para_645,Joe Pleban,Fredericksburg,VA,Para Snowboarding,True
+para_646,Jennifer Poist,McSherrytown,PA,Wheelchair Basketball,True
+para_647,Kevin Polish,Carmichaels,PA,Para Archery,True
+para_648,Donna Ponessa,New Windsor,,,True
+para_649,Erin Popovich,Colorado Springs,CO,,True
+para_650,Brent Poppen,Paso Robles,,,True
+para_651,Ryan Porteous,San Diego,CA,Sailing,True
+para_652,Myles Porter,Fremont,OH,Para Judo,True
+para_653,Nelacey Porter,Salem,,,True
+para_654,Brandon Powell-Ashby,Boulder,CO,Para Alpine Skiing,True
+para_655,Emma Preuschl,Indianapolis,,,True
+para_656,Bryan Price,Leeton,MO,Para Nordic Skiing,True
+para_657,Markeith Price,Baltimore,MD,Para Track and Field,True
+para_658,David Prince,Marietta,GA,Para Track and Field,True
+para_659,Tara Profitt,Apollo Beach,FL,Para Table Tennis,True
+para_660,Michael Prout,West Springfield,,Para Swimming,True
+para_661,Austin Pruitt,Greenacres,,Para Track and Field,True
+para_662,John Pucillo,Marlboro,,,True
+para_663,Kory Puderbaugh,San Diego,CA,Wheelchair Rugby,True
+para_664,Luis Puertas,Orlando,FL,Para Track and Field,True
+para_665,Amy Purdy,Las Vegas,NV,Para Snowboarding,True
+para_666,Krista Pylkki,St. Paul,,,True
+para_667,Clark Rachfal,Annapolis,,Para-Cycling,True
+para_668,Christie Raleigh Crossley,Toms River,NJ,Para Swimming,True
+para_669,Brent Rasmussen,Omaha,NE,Sitting Volleyball,True
+para_670,Casey Ratzlaff,"Wichita, Kan.",KS,Wheelchair Tennis,True
+para_671,Emma Rose Ravish,Alva,FL,Para Archery,True
+para_672,Morgan Ray,St. Augustine,FL,Para Swimming,True
+para_673,Maggie Redden,Jersey City,,Para Track and Field,True
+para_674,Zion Redington,Birmingham,AL,Wheelchair Rugby,True
+para_675,Dan Regan,St. Louis,MO,Sitting Volleyball,True
+para_676,Jason Regier,Centennial,CO,Wheelchair Rugby,True
+para_677,Bo Reichenbach,"Billings, Mont.",,,True
+para_678,Allie Reilly,North Kingstown,RI,Para-Rowing,True
+para_679,Shirley Reilly,Los Gatos,CA,Para Track and Field,True
+para_680,Ruslan Reiter,Manchester,ME,Para Nordic Skiing,True
+para_681,Rene Renteria,San Fernando,,Soccer 7-A-Side,True
+para_682,Beth Requist,Winter Park,CA,Para Nordic Skiing,True
+para_683,Mason Rhodes,Glennville,GA,Para Track and Field,True
+para_684,Alex Richter,Cullman,,,True
+para_685,Penny Ricker,Green Bay,WI,"Wheelchair Curling, Sitting Volleyball",True
+para_686,Travis David Ricks,San Diego,CA,Sitting Volleyball,True
+para_687,Isaiah Rigo,Cheney,WA,Para Track and Field,True
+para_688,Daniel Rizzieri,Cohocton,,,True
+para_689,Jaleen Roberts,Kent,WA,Para Track and Field,True
+para_690,Josh Roberts,Morris,AL,Para Track and Field,True
+para_691,John Roberts,Eugene,OR,Para Track and Field,True
+para_692,Scott Rodgers,San Diego,,,True
+para_693,Mario Rodriguez,Port Hueneme,,,True
+para_694,Ileana Rodriguez,Miami,,Para Swimming,True
+para_695,Matthew Rodriguez,Prescott Valley,AZ,Para-Cycling,True
+para_696,Nick Rogers,Lisbon Falls,ME,,True
+para_697,Rico Roman,Portland,OR,Sled Hockey,True
+para_698,Helman Roman,Miami,FL,Para-Rowing,True
+para_699,Daniel Romanchuk,Mount Airy,MD,Para Track and Field,True
+para_700,Jason Romero,Denver,,,True
+para_701,Fabian Romo,Houston,TX,Wheelchair Basketball,True
+para_702,Joy Rondeau,Granby,CO,Para Nordic Skiing,True
+para_703,Lance Roop,,,,True
+para_704,Dan Rose,Tomah,WI,Wheelchair Curling,True
+para_705,Nicole Roundy,Salt Lake City,UT,Para Snowboarding,True
+para_706,Brody Roybal,Northlake,IL,Sled Hockey,True
+para_707,Jennifer Ruddell,Champaign,,Wheelchair Basketball,True
+para_708,Jennifer Rudell,Lincolnshire,IL,Wheelchair Basketball,True
+para_709,Martha Ruether,Allegany,NY,Para Swimming,True
+para_710,John Ruf,Pewaukee,,,True
+para_711,Courtney Ryan,San Diego,CA,Wheelchair Basketball,True
+para_712,Jon Rydberg,Pine City,MN,Wheelchair Tennis,True
+para_713,Alexi Salamone,Grand Island,,,True
+para_714,Jorge Salazar,Delano,CA,Wheelchair Basketball,True
+para_715,Brianna Salinaro,Massapequa,NY,Para Taekwondo,True
+para_716,Rayven Sample,Jamestown,NY,Para Track and Field,True
+para_717,David Samsa,Suamico,WI,Wheelchair Curling,True
+para_718,Howie Sanborn,Denver,CO,Paratriathlon,True
+para_719,Jorge Sanchez,Oakland,CA,Wheelchair Basketball,True
+para_720,Oz Sanchez,San Diego,CA,Para-Cycling,True
+para_721,George Sansonetis,Fraser,,,True
+para_722,Lawrence Sapp,Waldorf,MD,Para Swimming,True
+para_723,Caitie Sarubbi,Brooklyn,,,True
+para_724,Sydney Satchell,"Windsor, Connecticut",CT,Sitting Volleyball,True
+para_725,Susannah Scaroni,Tekoa,WA,Para Track and Field,True
+para_726,Adam Scaturro,Lakewood,CO,Wheelchair Rugby,True
+para_727,Krige Schabort,Cedartown,GA,Triathlon,True
+para_728,Jese Schag,Edmond,OK,Sitting Volleyball,True
+para_729,Nelya Schasfoort,,,,True
+para_730,Paul Schaus,"Buffalo, N.Y.",,Sled Hockey,True
+para_731,Aaron Scheidies,Seattle,WA,Para-Cycling,True
+para_732,Emma Schieck,Statesville,NC,Sitting Volleyball,True
+para_733,Michelle Schiffler,Lake Wales,FL,Sitting Volleyball,True
+para_734,Summer Schmit,Stillwater,MN,Para Swimming,True
+para_735,Natalie Schneider,Ord,NE,Wheelchair Basketball,True
+para_736,Philip Scholz,Mount Sinai,,,True
+para_737,Garrett Schoonover,Sandy,UT,Wheelchair Fencing,True
+para_738,Jacob Schrom,Carlisle,PA,,True
+para_739,Jennifer Schuble,Homewood,AL,Para-Cycling,True
+para_740,Paul Schulte,Ann Arbor,MI,Wheelchair Basketball,True
+para_741,Mike Schultz,Kimball,MN,Para Snowboarding,True
+para_742,Christina Schwab,Dane,WI,Wheelchair Basketball,True
+para_743,Laura Schwanger,Turnersville,,,True
+para_744,Melanie Schwartz,Aspen,CO,Para Alpine Skiing,True
+para_745,Susan Beth Scott,Cape Girardeau,,Para Swimming,True
+para_746,Matt Scott,Detroit,MI,Wheelchair Basketball,True
+para_747,Andre Scott,San Diego,,Table Tennis,True
+para_748,Allysa Seely,Glendale,AZ,Paratriathlon,True
+para_749,Kim Seevers,Averill Park,,,True
+para_750,Spencer Seggebruch,St. Louis ,MO,Para-Cycling,True
+para_751,Bryce Segura,Coteau,LA,Para Powerlifting,True
+para_752,Lynn Seidemann,Coppell,,,True
+para_753,Mitchell Seidenfeld,Lakeville,MN,Table Tennis,True
+para_754,Ian Seidenfeld,Lakeville,MN,Para Table Tennis,True
+para_755,Chris Seilkop,Deland,FL,Sitting Volleyball,True
+para_756,Jeff Sena,,,,True
+para_757,James Senbeta,Philadelphia,PA,Para Track and Field,True
+para_758,Monica Sereda,St. Petersburg,FL,Para-Cycling,True
+para_759,Steve Serio,Westbury,NY,Wheelchair Basketball,True
+para_760,Scot Severn,Caro,MI,Para Track and Field,True
+para_761,Ahmed Shafik,Tucson,AZ,,True
+para_762,Tyler Sharp,Olympia,,,True
+para_763,Zachary Shattuck,Mt. Airy,MD,Para Swimming,True
+para_764,Greg Shaw,Merritt Island,FL,Sled Hockey,True
+para_765,Mike Shea,Castaic,CA,Para Snowboarding,True
+para_766,Drew Shea,Vienna,VA,Para Nordic Skiing,True
+para_767,Andre Shelby,Jeffersonville,IN,Para Archery,True
+para_768,Jana Shelfer,Belleville,KS,Wheelchair Basketball,True
+para_769,Haven Shepherd,Carthage,MO,Para Swimming,True
+para_770,Brian Sheridan,Bay City,MI,Para-Cycling,True
+para_771,Jerry Shields,Jacksonville,,,True
+para_772,Alexis (Lexi) Shifflett-Patterson,Waseca,MN,Sitting Volleyball,True
+para_773,Marlon Shirley,Tremonton,,,True
+para_774,Kate Shoemaker,Eagle,ID,Para-Equestrian,True
+para_775,Gavin Sibayan,Westminster,CO,Soccer,True
+para_776,Jenny Sichel,Clifton,NJ,Para-Rowing,True
+para_777,Jimmy Sides,Silverthorne,CO,Para Snowboarding,True
+para_778,Brian Siemann,Champaign,IL,Para Track and Field,True
+para_779,Ian Silverman,Baltimore,,Para Swimming,True
+para_780,Cindy Simon,Wayne,NJ,Judo,True
+para_781,Jayci Simon,St. Johns,MI,Para Badminton,True
+para_782,Matt Simpson,Atlanta,GA,Goalball,True
+para_783,Natalie Sims,Edina,MN,Para Swimming,True
+para_784,Jerome Singleton,Irmo,SC,Para Track and Field,True
+para_785,Jeff Skiba,Sammamish,WA,Para Track and Field,True
+para_786,Nick Slade,Albuquerque,NM,Para Track and Field,True
+para_787,Rolland Slade,Spring Valley,CA,Para Track and Field,True
+para_788,Josh Smith,Mesquite,TX,Sitting Volleyball,True
+para_789,Jaclyn Smith,Williston Park,NY,Para-Rowing,True
+para_790,Hallie Smith,"Washington, D.C.",WA,Para-Rowing,True
+para_791,Lizzi Smith,Muncie,IN,Para Swimming,True
+para_792,Leanne Smith,Salem,MA,Para Swimming,True
+para_793,Dee Smith,San Francisco,CA,Sailing,True
+para_794,Wes Smith,Glenburn,ME,Wheelchair Curling,True
+para_795,Randy Snow,Terrell,TX,"Wheelchair Basketball, Wheelchair Tennis",True
+para_796,Bradley Snyder,Baltimore,MD,Para Swimming,True
+para_797,Brad Snyder,St. Petersburg,FL,Triathlon,True
+para_798,Mackenzie Soldan,Tuscaloosa,AL,Wheelchair Basketball,True
+para_799,Andy Soule,Kerrville,TX,Para Nordic Skiing,True
+para_800,Michael Spivey,Abilene,TX,Para Snowboarding,True
+para_801,Nick Springer,Croton,,,True
+para_802,Mary Stack,Ann Arbor,,,True
+para_803,Jamie Stanton,Oakland Township,MI,Para Alpine Skiing,True
+para_804,Robyn Stawski,Tampa,,,True
+para_805,Jacob Stearns,Palm Bay,FL,Para Powerlifting,True
+para_806,Alexandra Stein,Stamford,,,True
+para_807,Chelsea Stein,Spring,TX,Para Track and Field,True
+para_808,Michael Stephens,,,Para-Cycling,True
+para_809,Laurie Stephens,Wenham,MA,Para Alpine Skiing,True
+para_810,Moray Steward,San Diego,CA,Para Track and Field,True
+para_811,Morgan Stickney,Cary,NC,Para Swimming,True
+para_812,Zachary Stinson,,,Para-Cycling,True
+para_813,Melissa Stockwell,Colorado Springs,CO,Paratriathlon,True
+para_814,Scott Stokes,Roswell,,,True
+para_815,Elizabeth Stone,Grand Rapids,,Para Swimming,True
+para_816,Kevin Stone,Kodak,,Para Archery,True
+para_817,Hugo Storer,Greensboro,NC,Sitting Volleyball,True
+para_818,Slater Storey,Sun Valley,,,True
+para_819,Elitsa Storey,Sun Valley,,,True
+para_820,Evan Strong,Haiku,HI,Para Snowboarding,True
+para_821,Conner Stroud,Rutherfordton,NC,Wheelchair Tennis,True
+para_822,James Stuck,New Kensington,PA,Sitting Volleyball,True
+para_823,Jason Sturm,Herndon,,,True
+para_824,Matt Stutzman,Kansas City,KS,Para Archery,True
+para_825,Katy Sullivan,Tuscaloosa,,,True
+para_826,Chance Sumner,Colorado Springs,,,True
+para_827,David Swanson,Tucson,,Para-Cycling,True
+para_828,Taylor Swanson,Spokane,WA,Para Track and Field,True
+para_829,Charlie Swearingen,Gulfport,MS,Sitting Volleyball,True
+para_830,Josh Sweeney,Glendale,AZ,Para Nordic Skiing,True
+para_831,Mason Symons,Hershey,PA,Wheelchair Rugby,True
+para_832,Jason Tabansky,Brownsville,TX,Para Archery,True
+para_833,Tracy Tackett,Phoenixville,,,True
+para_834,Mike Tagliapietra,Fond du Lac,WI,Para Shooting,True
+para_835,Taylor Talbot,Ontario,OR,Para Track and Field,True
+para_836,Robert Tanaka,Denver,CO,Judo,True
+para_837,John Tanguay,Pennington,NJ,Para-Rowing,True
+para_838,Kyle Taulman,Winter Park,CO,Para Alpine Skiing,True
+para_839,Nick Taylor,Wichita,KS,Wheelchair Tennis,True
+para_840,Jataya Taylor,Aurora,CO,Wheelchair Fencing,True
+para_841,Terese Terranova,,FL,Table Tennis,True
+para_842,John Terrell,Converse,TX,,True
+para_843,Robin Theryoung,Colorado Springs,,,True
+para_844,Ashley Thomas,Durham,NC,Canoe/Kayak,True
+para_845,Jeanette Thompson,Chicago,,,True
+para_846,Matt Thums,Ogema,WI,Wheelchair Curling,True
+para_847,Casey Tibbs,San Diego,,,True
+para_848,Matt Tingley,,,Para-Cycling,True
+para_849,Joe Tompkins,Juneau,AK,Para Alpine Skiing,True
+para_850,Bubba Torres,Riverside,,Sled Hockey,True
+para_851,Matthew Torres,Ansonia,CT,Para Swimming,True
+para_852,Roderick Townsend,Stockton,CA,Para Track and Field,True
+para_853,Steven Toyoji,Redmond,WA,Para Track and Field,True
+para_854,Roxanne Trunnell,Richland,WA,Para-Equestrian,True
+para_855,Ali Truwit,Darien,CT,Para Swimming,True
+para_856,Samantha Tucker,Gordon,NE,Para Archery,True
+para_857,Josh Turek,Council Bluffs,IA,Wheelchair Basketball,True
+para_858,Renee Tyree,,WI,Wheelchair Basketball,True
+para_859,Miranda Uhl,Alachua,,,True
+para_860,Danelle Umstead,Park City,UT,Para Alpine Skiing,True
+para_861,Rob Umstead,Park City,UT,Para Alpine Skiing,True
+para_862,Kelly Underkofler,St. Paul,,,True
+para_863,Matt Updike,,,Para-Cycling,True
+para_864,Oyuna Uranchimeg,Burnsville,MN,Wheelchair Curling,True
+para_865,Mark Urquhart,,,,True
+para_866,Gary Van Der Wege,Kyle,,,True
+para_867,Jenson Van Emburgh,Belleair Beach,FL,Para Table Tennis,True
+para_868,Shaquille Vance,Houston,TX,Para Track and Field,True
+para_869,Marthell Vazquez,Long Beach,,Soccer 7-A-Side,True
+para_870,Kaitlyn Verfuerth,Flagstaff,AZ,Canoe/Kayak,True
+para_871,Stephani Victor,Park City,UT,Para Alpine Skiing,True
+para_872,Todd Vogt,Rochester,NY,Para-Rowing,True
+para_873,Craig Vogtsberger,,,,True
+para_874,Zoe Voris,Chicago,IL,Wheelchair Basketball,True
+para_875,Jerreme Wade,Chesapeake,,,True
+para_876,David Wagner,Walla Walla,WA,Wheelchair Tennis,True
+para_877,Jeremy Wagner,Nānākuli,HI,Para Nordic Skiing,True
+para_878,Zion Walker,Fort Wayne,IN,Goalball,True
+para_879,Daryl Walker,Jacksonville,FL,Goalball,True
+para_880,Tyler Walker,Franconia,NH,Para Alpine Skiing,True
+para_881,Sean Walker,Winchester,VA,,True
+para_882,Jack Wallace,Franklin Lakes,NJ,"Sled Hockey, Paracanoe",True
+para_883,Jarryd Wallace,Athens,GA,Para Track and Field,True
+para_884,Will Waller,Chicago,,,True
+para_885,Patricia Walsh,Austin,TX,Triathlon,True
+para_886,Jill Walsh,Syracuse,NY,Para-Cycling,True
+para_887,Thomas Walsh,Vail,CO,Para Alpine Skiing,True
+para_888,Jordan Walters,Boulder,,,True
+para_889,Brandon Walton,,,Para-Cycling,True
+para_890,Kyle Wardwell,Norman,OK,Para Track and Field,True
+para_891,Brad Washburn,Winter Park,CO,,True
+para_892,Ben Washburne,Madison,CT,Para-Rowing,True
+para_893,Gwynn Watkins,Mt. Shasta,,,True
+para_894,Andre Watson,Upper Darby,,,True
+para_895,Amy Watt,Palo Alto,CA,Para Track and Field,True
+para_896,Rachel Watts (Rhodes),St. Joseph,MO,Paratriathlon,True
+para_897,Amberlynn Weber,Spokane,,,True
+para_898,Dorian Weber,Henley-on-Thames,,Para-Rowing,True
+para_899,Lora Webster-Bargellini,Phoenix,AZ,Sitting Volleyball,True
+para_900,Mallory Weggemann,Eagan,MN,Para Swimming,True
+para_901,Stephen Welch,Southlake,,,True
+para_902,Jonathan Wentz,Richardson,,Para-Equestrian,True
+para_903,Josh Wheeler,Tucson,AZ,Wheelchair Rugby,True
+para_904,Stephanie Wheeler,Norlina,NC,Wheelchair Basketball,True
+para_905,MeiMei White,Orlando,FL,Para Swimming,True
+para_906,Jordan White,Cedar Park,TX,Para Archery,True
+para_907,Ahkeel Whitehead,San Diego,CA,Para Track and Field,True
+para_908,Scott Whitman,Brick,,,True
+para_909,Jamie Whitmore,Somerset,CA,Para-Cycling,True
+para_910,John Whitney,Towson,,,True
+para_911,Karissa Whitsell,Eugene,,Para-Cycling,True
+para_912,Barry Wilcox,,,Para-Cycling,True
+para_913,Evan Wilkerson,Wake Forest,NC,Para Swimming,True
+para_914,Wesley Williams,Visalia,CA,Para Track and Field,True
+para_915,Jillian Williams,Odem,TX,Sitting Volleyball,True
+para_916,Jake Williams,Milwaukee,WI,Wheelchair Basketball,True
+para_917,Ron Williams,Birmingham,,,True
+para_918,Benjy Williams,Monroe,,Wheelchair Fencing,True
+para_919,Johnnie Williams,"Tampa, Fla.",FL,Para Track and Field,True
+para_920,Taleah Williams,Norfolk,NE,Para Track and Field,True
+para_921,David Williams,Fort Lauderdale,FL,Para Alpine Skiing,True
+para_922,Liz Willis,Sterling,KS,Para Track and Field,True
+para_923,Cody Wills,Harrisburg,PA,Para-Cycling,True
+para_924,Joel Wilmoth,Hueytown,,,True
+para_925,Pamela Wilson,Westminster,CO,Wheelchair Curling,True
+para_926,Scott Winkler,Pittsburgh,,,True
+para_927,Taylor Winnett,Hershey,PA,Para Swimming,True
+para_928,Dallas Wise,Columbia,SC,Para Track and Field,True
+para_929,Joe Wise,Menlo Park,,Para Swimming,True
+para_930,Anderson Wise,Needham,,,True
+para_931,Michael Wishnia,Livingston,NJ,Para Track and Field,True
+para_932,Joshua Wold,Turnwater,,,True
+para_933,Russell Wolfe,Widnoon,,,True
+para_934,Gemma Wollenschlaeger,St. Augustine Beach,FL,Para-Rowing,True
+para_935,Spencer Wood,Pittsfield,VT,Para Alpine Skiing,True
+para_936,Sam Wood,Harpswell,ME,Para Nordic Skiing,True
+para_937,Hunter Woodhall,Syracuse,UT,Para Track and Field,True
+para_938,Joseph Woodke,Nashville,TN,Sled Hockey,True
+para_939,Mackenzie Woodring,Grand Rapids,MI,Para-Cycling,True
+para_940,Regas Woods,Dunnellon,FL,Para Track and Field,True
+para_941,Andrea Woodson-Smith,Waynesboro,,,True
+para_942,Daphne Wright,Los Angeles,,,True
+para_943,Tanner Wright,Fort Worth,TX,Para Track and Field,True
+para_944,Noah Yablong,Ocean Ridge,,,True
+para_945,Cade Yamamoto,Quincy,WA,Para Alpine Skiing,True
+para_946,Andy Yohe,"Bettendorf, Iowa",,Sled Hockey,True
+para_947,Ann Yoshida,Mililani,HI,Canoe/Kayak,True
+para_948,Deja Young,Mesquite,TX,Para Track and Field,True
+para_949,Calahan Young,Irwin,PA,Goalball,True
+para_950,Colleen Young,St. Louis,MO,Para Swimming,True
+para_951,Marshall Zackery,Ocala,FL,Para Track and Field,True
+para_952,Anthony Zahn,Riverside,,Para-Cycling,True
+para_953,Nicole		 Zaino,Brookfield,CT,Para Nordic Skiing,True
+para_954,Justin Zook,Ft. Lauderdale,,Para Swimming,True
+para_955,Trischa Zorn-Hudson,Orange,CA,Para Swimming,True
+para_956,Bethany Zummo,Dublin,CA,Sitting Volleyball,True
+para_957,Mark Zupan,Austin,,,True
+para_958,Lindsey Zurbrugg,Portland,OR,Wheelchair Basketball,True
+para_959,Mia Zutter,Sun Prairie,WI,Para Nordic Skiing,True
+para_960,Kyle Zych,South Hadley,MA,Sled Hockey,True
+para_961,Beatrice de Lavalette,Wellington,FL,Para-Equestrian,True

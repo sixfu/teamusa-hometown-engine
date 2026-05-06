@@ -2,7 +2,7 @@
 
 This repository contains the source code for the **Team USA Hometown Success Engine**, a web application designed to explore the origins of American Olympic and Paralympic athletes. It provides a data-rich platform to discover which towns and cities have produced the most successful athletes, analyze regional sport concentrations, and uncover stories about Team USA's hometown heroes.
 
-The application is powered by a Python Flask backend, a React frontend, and Google BigQuery for data storage and analysis, with Google's Gemini AI for generating narrative content. This repo is ready to be containerized and deployed to Cloud Run.
+The application is powered by a Python Flask backend, a React frontend, and Google BigQuery & Google Maps for data storage and analysis, with Google's Gemini AI for generating narrative content. This repo is ready to be deployed to Cloud Run.
 
 ## Features
 
@@ -79,8 +79,9 @@ Once the raw athlete data was collected, it was enriched with several geographic
 *   **Elevation Data**: The elevation for each hometown was fetched from the USGS Elevation Point Query Service API. Any missing elevation values were subsequently inferred based on the location's latitude.
 *   **Distance to Coast**: The shortest distance from each hometown to the US coastline was calculated using a coastline shapefile, providing a new `distance_to_coast_km` feature.
 
+The processed athlete data was then used to generate the csv files listed above for interactive analysis.
 
-## Getting Started To Test At Local
+## Getting Started - Reproducible Local Testing Instructions
 
 ### Prerequisites
 
@@ -103,17 +104,23 @@ Once the raw athlete data was collected, it was enriched with several geographic
 2.  Install dependencies: `npm install`
 3.  Run the application: `npm start`
 
-## API Endpoints
 
-The backend exposes a rich set of API endpoints to query the data:
+## Deploy to Google Cloud Run
 
-- `GET /api/hometowns`: Fetches all hometowns.
-- `GET /api/hometowns/by-state`: Aggregates hometown data by state.
-- `GET /api/hometown/<hometown_id>`: Retrieves details for a specific hometown, including an AI-generated story.
-- `GET /api/sports`: Lists all available sports.
-- `GET /api/sports/heatmap`: Provides data to generate a heatmap for a specific sport.
-- `POST /api/agent/query`: Processes a natural language query from the user.
+### Backend Setup
 
+1.  Navigate to the `backend` directory.
+2.  Activate the environment: `source venv/bin/activate`
+3.  Run `gcloud run deploy team-usa-api   --source .  --platform managed  --region us-central1 --allow-unauthenticated --set-env-vars GCP_PROJECT_ID=You-Project-ID --set-env-vars GEMINI_API_KEY=Your_Gemini_API_Key`
+4.  After the deployment is completed, there should be a cloud run URL, such as https://team-usa-api-xxxxx.run.app
+
+### Frontend Setup
+
+1.  Navigate to the `frontend` directory
+2.  Update the file frontend/src/services/api.js, replace the API_BASE in line 3 by the URL obtained from backend deployment above (i.e. const API_BASE = 'https://team-usa-api-xxxxx.run.app/api')
+3.  Run `npm run build`
+4.  Run `gcloud run deploy team-usa-ui --source .  --platform managed  --region us-central1 --allow-unauthenticated`
+5.  After deployment is completed, you should be able to get the URL for the application, such as https://team-usa-ui-xxxxx.run.app, click it or paste it into the Browser to use it.
 
 ## License
 [Apache 2.0](https://github.com/sixfu/team-usa-hometown-engine/blob/master/LICENSE)

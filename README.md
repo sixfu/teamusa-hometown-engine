@@ -83,7 +83,7 @@ Once the raw athlete data was collected, it was enriched with several geographic
 
 The processed athlete data was then used to generate the csv files listed above for interactive analysis.
 
-## Getting Started - Reproducible Local Testing Instructions
+## Getting Started - Local Testing Instructions
 
 ### Prerequisites
 

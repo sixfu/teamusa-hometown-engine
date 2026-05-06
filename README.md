@@ -49,7 +49,7 @@ The frontend is a modern React application that provides a rich, interactive use
 
 ### BigQuery Tables Derived From the Athlete Data
 
-The `bq_tables/` directory contains CSV files that define the schema for the data stored in Google BigQuery. This data is the foundation of the application. All the csv files needed to be injected into Google Bigquery with the same name (e.g. `bq_athletes.csv` -> 'your_gcp_project.team_usa_olympics.athletes).
+The `bq_tables/` directory contains CSV files that define the schema for the data stored in Google BigQuery. This data is the foundation of the application. All the csv files needed to be injected into Google Bigquery with the same name (e.g. `bq_athletes.csv` -> `your_gcp_project.team_usa_olympics.athletes`).
 
 - **`bq_athletes.csv` / `bq_athletes_para.csv`**: Core tables containing individual athlete data, including name, birth year, and hometown.
 - **`bq_hometowns_with_geography.csv` / `bq_hometowns_para_with_geography.csv`**: Contain aggregated data for each hometown, including total athlete counts and enriched geographical features like region, elevation, and climate zone.

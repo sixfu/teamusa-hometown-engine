@@ -49,46 +49,12 @@ The frontend is a modern React application that provides a rich, interactive use
 
 ### BigQuery Tables Derived From the Athlete Data
 
-The `bq_tables/` directory contains CSV files that define the schema for the data stored in Google BigQuery. This data is the foundation of the application.
+The `bq_tables/` directory contains CSV files that define the schema for the data stored in Google BigQuery. This data is the foundation of the application. All the csv files needed to be injected into Google Bigquery with the same name (e.g. `bq_athletes.csv` -> 'your_gcp_project.team_usa_olympics.athletes).
 
 - **`bq_athletes.csv` / `bq_athletes_para.csv`**: Core tables containing individual athlete data, including name, birth year, and hometown.
 - **`bq_hometowns_with_geography.csv` / `bq_hometowns_para_with_geography.csv`**: Contain aggregated data for each hometown, including total athlete counts and enriched geographical features like region, elevation, and climate zone.
 - **`bq_sports.csv` / `bq_sports_para.csv`**: Aggregated data for each sport, including the total number of US athletes.
 - **`bq_athlete_counts_by_sport_year.csv` / `bq_para_athlete_counts_by_sport_year.csv`**: Pre-calculated counts of athletes per sport for each year, used for historical trend analysis.
-
-## Getting Started
-
-### Prerequisites
-
-- Python 3.8+ and Node.js
-- Google Cloud SDK
-- Access to a Google Cloud Platform project with BigQuery and Gemini APIs enabled.
-
-### Backend Setup
-
-1.  Navigate to the `backend` directory.
-2.  Create a virtual environment: `python -m venv venv`
-3.  Activate the environment: `source venv/bin/activate`
-4.  Install dependencies: `pip install -r requirements.txt`
-5.  Set up your environment variables in a `.env` file (see `.env.example`).
-6.  Run the application: `flask run`
-
-### Frontend Setup
-
-1.  Navigate to the `frontend` directory.
-2.  Install dependencies: `npm install`
-3.  Run the application: `npm start`
-
-## API Endpoints
-
-The backend exposes a rich set of API endpoints to query the data:
-
-- `GET /api/hometowns`: Fetches all hometowns.
-- `GET /api/hometowns/by-state`: Aggregates hometown data by state.
-- `GET /api/hometown/<hometown_id>`: Retrieves details for a specific hometown, including an AI-generated story.
-- `GET /api/sports`: Lists all available sports.
-- `GET /api/sports/heatmap`: Provides data to generate a heatmap for a specific sport.
-- `POST /api/agent/query`: Processes a natural language query from the user.
 
 ## Data Processing and Enrichment
 
@@ -112,6 +78,42 @@ Once the raw athlete data was collected, it was enriched with several geographic
 *   **US Census Region**: Map each state to its corresponding US census region (Northeast, Midwest, South, or West).
 *   **Elevation Data**: The elevation for each hometown was fetched from the USGS Elevation Point Query Service API. Any missing elevation values were subsequently inferred based on the location's latitude.
 *   **Distance to Coast**: The shortest distance from each hometown to the US coastline was calculated using a coastline shapefile, providing a new `distance_to_coast_km` feature.
+
+
+## Getting Started To Test At Local
+
+### Prerequisites
+
+- Python 3.11+ (3.13.5 was used) 
+- Node.js and npm (Node.js v24.15.0 and npm v11.12.1 were used)
+- Access to a Google Cloud Platform project with BigQuery, Google Maps, and Gemini APIs enabled.
+
+### Backend Setup
+
+1.  Navigate to the `backend` directory.
+2.  Create a virtual environment: `python -m venv venv`
+3.  Activate the environment: `source venv/bin/activate`
+4.  Install dependencies: `pip install -r requirements.txt`
+5.  Set up your environment variables in a `.env` file (see `.env.example`).
+6.  Run the application: `python main.py`
+
+### Frontend Setup
+
+1.  Navigate to the `frontend` directory.
+2.  Install dependencies: `npm install`
+3.  Run the application: `npm start`
+
+## API Endpoints
+
+The backend exposes a rich set of API endpoints to query the data:
+
+- `GET /api/hometowns`: Fetches all hometowns.
+- `GET /api/hometowns/by-state`: Aggregates hometown data by state.
+- `GET /api/hometown/<hometown_id>`: Retrieves details for a specific hometown, including an AI-generated story.
+- `GET /api/sports`: Lists all available sports.
+- `GET /api/sports/heatmap`: Provides data to generate a heatmap for a specific sport.
+- `POST /api/agent/query`: Processes a natural language query from the user.
+
 
 ## License
 [Apache 2.0](https://github.com/sixfu/team-usa-hometown-engine/blob/master/LICENSE)

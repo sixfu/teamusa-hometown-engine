@@ -53,7 +53,7 @@ notebooks/data/
 notebooks/
 
 # GCP credentials (NEVER COMMIT THESE!)
-*.json
+# *.json
 service-account-key.json
 
 # OS

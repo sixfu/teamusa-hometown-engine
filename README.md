@@ -2,7 +2,7 @@
 
 This repository contains the source code for the **Team USA Hometown Success Engine**, a web application designed to explore the origins of American Olympic and Paralympic athletes. It provides a data-rich platform to discover which towns and cities have produced the most successful athletes, analyze regional sport concentrations, and uncover stories about Team USA's hometown heroes.
 
-![A picture](TeamUSAScreenshot.jpg)
+![The landing page](TeamUSAScreenshot.jpg)
 
 The application is powered by a Python Flask backend, a React frontend, and Google BigQuery & Google Maps for data storage and analysis, with Google's Gemini AI for generating narrative content. This repo is ready to be deployed to Cloud Run.
 

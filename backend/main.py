@@ -4,6 +4,8 @@ from handlers.bigquery_handler import BigQueryHandler, OLYMPIC_SPORTS
 from handlers.gemini_handler import GeminiHandler
 from handlers.agent_handler import AgentHandler
 import os
+import random
+import numpy as np
 
 app = Flask(__name__)
 CORS(app)
@@ -243,6 +245,112 @@ def agent_query():
         return jsonify({'success': True, 'data': result})
     except Exception as e:
         return jsonify({'success': False, 'error': str(e)}), 500
+
+@app.route('/api/find-matched-sports', methods=['POST'])
+def find_matched_sports():
+    data = request.get_json() or {}
+    height = data.get('height')       # int/float, cm
+    weight = data.get('weight')       # int/float, kg
+    birth_city = (data.get('birth_city') or '').strip()
+    birth_state = (data.get('birth_state') or '').strip()
+
+    has_hw = height is not None and weight is not None
+    has_city = bool(birth_city)
+    has_state = bool(birth_state)
+
+    try:
+        df = bq.get_athletes_4predictsport()
+
+        # Fill NaN in birth columns with empty string for safe string ops
+        df['birth_city'] = df['birth_city'].fillna('')
+        df['birth_state'] = df['birth_state'].fillna('')
+
+        sport_freq = df['sport'].value_counts().to_dict()
+
+        def _top3_by_score(scored_df):
+            """Given df with '_score' column, return top-3 sports by min score (ties: alpha)."""
+            sport_min = scored_df.groupby('sport')['_score'].min().reset_index()
+            sport_min = sport_min.sort_values(['_score', 'sport'])
+            return [
+                {'sport': row['sport'], 'frequency': sport_freq.get(row['sport'], 0)}
+                for _, row in sport_min.head(3).iterrows()
+            ]
+
+        def _random_sports(pool_df, n=3):
+            available = pool_df['sport'].unique().tolist()
+            selected = random.sample(available, min(n, len(available)))
+            return [{'sport': s, 'frequency': sport_freq.get(s, 0)} for s in selected]
+
+        def _safe_std(series):
+            v = series.std()
+            return float(v) if (v == v and v > 0) else 1.0  # guard NaN (NaN != NaN) and 0
+
+        def _normalize_body_dist(df_hw):
+            """Add Euclidean distance column '_score' to df_hw (z-score normalized)."""
+            df_hw = df_hw.dropna(subset=['height', 'weight']).copy()
+            h_mean, h_std = float(df_hw['height'].mean()), _safe_std(df_hw['height'])
+            w_mean, w_std = float(df_hw['weight'].mean()), _safe_std(df_hw['weight'])
+            user_nh = (float(height) - h_mean) / h_std
+            user_nw = (float(weight) - w_mean) / w_std
+            df_hw['_nh'] = (df_hw['height'] - h_mean) / h_std
+            df_hw['_nw'] = (df_hw['weight'] - w_mean) / w_std
+            df_hw['_score'] = np.sqrt((df_hw['_nh'] - user_nh) ** 2 + (df_hw['_nw'] - user_nw) ** 2)
+            return df_hw
+
+        if has_hw and has_city and has_state:
+            # Combined: normalized body distance minus geo weight (lower = better match)
+            df_hw = _normalize_body_dist(df)
+            max_dist = df_hw['_score'].max() or 1
+            df_hw['_norm_dist'] = df_hw['_score'] / max_dist
+
+            city_lo = birth_city.lower()
+            state_up = birth_state.upper()
+
+            def _geo_weight(row):
+                if row['birth_city'].lower() == city_lo and row['birth_state'].upper() == state_up:
+                    return 1.0
+                if row['birth_state'].upper() == state_up:
+                    return 0.5
+                return 0.0
+
+            df_hw['_geo'] = df_hw.apply(_geo_weight, axis=1)
+            df_hw['_score'] = df_hw['_norm_dist'] - df_hw['_geo']
+            sports = _top3_by_score(df_hw)
+
+        elif has_hw:
+            # Body distance only
+            df_hw = _normalize_body_dist(df)
+            sports = _top3_by_score(df_hw)
+
+        elif has_city and has_state:
+            city_mask = (df['birth_city'].str.lower() == birth_city.lower()) & \
+                        (df['birth_state'].str.upper() == birth_state.upper())
+            city_df = df[city_mask]
+            if len(city_df) > 0:
+                sports = _random_sports(city_df)
+            else:
+                state_df = df[df['birth_state'].str.upper() == birth_state.upper()]
+                pool = state_df if len(state_df) > 0 else df
+                sports = _random_sports(pool)
+
+        elif has_state:
+            state_df = df[df['birth_state'].str.upper() == birth_state.upper()]
+            pool = state_df if len(state_df) > 0 else df
+            sports = _random_sports(pool)
+
+        elif has_city:
+            city_df = df[df['birth_city'].str.lower() == birth_city.lower()]
+            pool = city_df if len(city_df) > 0 else df
+            sports = _random_sports(pool)
+
+        else:
+            sports = _random_sports(df)
+
+        return jsonify({'success': True, 'data': {'sports': sports}})
+
+    except Exception as e:
+        return jsonify({'success': False, 'error': str(e)}), 500
+
 
 @app.route('/health', methods=['GET'])
 def health_check():

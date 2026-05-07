@@ -22,6 +22,9 @@ class Config:
     BQ_SPORT_YEAR_COUNTS_TABLE = f'{GCP_PROJECT_ID}.{BQ_DATASET_ID}.athletes_counts_by_sport_year'
     BQ_SPORT_YEAR_COUNTS_TABLE_PARA = f'{GCP_PROJECT_ID}.{BQ_DATASET_ID}.para_athletes_counts_by_sport_year'
 
+    # Sport prediction table
+    BQ_ATHLETES_4PREDICTSPORT_TABLE = f'{GCP_PROJECT_ID}.{BQ_DATASET_ID}.athletes_4predictsport'
+
     # Gemini model config
     GEMINI_MODEL = 'gemini-2.5-flash-lite'
     GEMINI_REGION = 'us-central1'

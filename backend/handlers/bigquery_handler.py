@@ -641,6 +641,16 @@ class BigQueryHandler:
         """
         return self.client.query(query, job_config=job_config).to_dataframe().to_dict(orient='records')
 
+    def get_athletes_4predictsport(self):
+        """Fetch all records from athletes_4predictsport for sport matching. Returns a DataFrame."""
+        table = Config.BQ_ATHLETES_4PREDICTSPORT_TABLE
+        query = f"""
+        SELECT birth_city, birth_state, height, weight, sport_clean AS sport
+        FROM `{table}`
+        WHERE sport_clean IS NOT NULL AND TRIM(sport_clean) != ''
+        """
+        return self.client.query(query).to_dataframe()
+
     def get_region_comparison(self, city1=None, state1=None, city2=None, state2=None, mode='olympic'):
         athletes_tbl, _, _ = self._tables(mode)
         sport_col = self._sport_col(mode)

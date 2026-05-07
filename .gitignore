@@ -67,3 +67,4 @@ logs/
 # Temporary files
 *.tmp
 *.bak
+localnote.md

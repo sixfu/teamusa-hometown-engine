@@ -57,6 +57,7 @@ The `bq_tables/` directory contains CSV files that define the schema for the dat
 - **`bq_hometowns_with_geography.csv` / `bq_hometowns_para_with_geography.csv`**: Contain aggregated data for each hometown, including total athlete counts and enriched geographical features like region, elevation, and climate zone.
 - **`bq_sports.csv` / `bq_sports_para.csv`**: Aggregated data for each sport, including the total number of US athletes.
 - **`bq_athlete_counts_by_sport_year.csv` / `bq_para_athlete_counts_by_sport_year.csv`**: Pre-calculated counts of athletes per sport for each year, used for historical trend analysis.
+- **`bq_athletes_4predictsport.csv`**: Pre-calculated profiles of athletes and their sports, used for matching sports with user provided profiles.
 
 ## Data Processing and Enrichment
 

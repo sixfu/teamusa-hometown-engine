@@ -1,7 +1,6 @@
 import axios from 'axios';
 
-// const API_BASE = 'http://localhost:5000/api';
-const API_BASE = 'https://team-usa-api-456111731385.us-central1.run.app/api';
+const API_BASE = process.env.REACT_APP_API_BASE || 'https://team-usa-api-456111731385.us-central1.run.app/api';
 
 export const getHometowns = async (mode = 'olympic') => {
   try {
@@ -138,6 +137,16 @@ export const queryAgent = async (question, includeParalympics = true, history = 
     include_paralympics: includeParalympics,
     history,
   });
+  return response.data.data;
+};
+
+export const findMatchedSports = async ({ height, weight, birth_city, birth_state } = {}) => {
+  const body = {};
+  if (height !== undefined && height !== '') body.height = Number(height);
+  if (weight !== undefined && weight !== '') body.weight = Number(weight);
+  if (birth_city) body.birth_city = birth_city;
+  if (birth_state) body.birth_state = birth_state;
+  const response = await axios.post(`${API_BASE}/find-matched-sports`, body);
   return response.data.data;
 };
 

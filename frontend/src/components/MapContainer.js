@@ -56,7 +56,8 @@ function buildHubIcon(color, sportCount, maxSportCount, concentration, maxConc, 
   };
 }
 
-const TOP_N_OPTIONS = [20, 25, 30, 35, 40, 45, 50, 100];
+// 0 is the sentinel for "All" (no limit)
+const TOP_N_OPTIONS = [20, 25, 30, 35, 40, 45, 50, 100, 200, 500, 1000, 2000, 3000, 0];
 
 export default function MapContainer({
   hometowns = [],
@@ -106,12 +107,13 @@ export default function MapContainer({
   // Top N hometowns within the current viewport (hometowns already sorted by athletes desc)
   const visibleTopN = useMemo(() => {
     if (!hometowns.length) return [];
-    if (!mapBounds) return hometowns.slice(0, topN);
+    const all = topN === 0;
+    if (!mapBounds) return all ? hometowns : hometowns.slice(0, topN);
     const inView = hometowns.filter(
       h => h.latitude && h.longitude &&
            mapBounds.contains({ lat: h.latitude, lng: h.longitude })
     );
-    return inView.slice(0, topN);
+    return all ? inView : inView.slice(0, topN);
   }, [mapBounds, hometowns, topN]);
 
   // heatmapMode stays true even while data is loading (empty array), preventing revert to default view
@@ -222,13 +224,13 @@ export default function MapContainer({
           <p className="map-description" style={{ margin: 0 }}>
             {filterMode === 'all' ? (
               <>
-                Showing the top{' '}
+                {topN === 0 ? 'Showing' : 'Showing the top'}{' '}
                 <select
                   className="map-top-n-inline"
                   value={topN}
                   onChange={e => setTopN(Number(e.target.value))}
                 >
-                  {TOP_N_OPTIONS.map(n => <option key={n} value={n}>{n}</option>)}
+                  {TOP_N_OPTIONS.map(n => <option key={n} value={n}>{n === 0 ? 'All' : n}</option>)}
                 </select>
                 {' '}hometowns in current view — zoom in to explore local concentrations
               </>
@@ -475,6 +477,7 @@ export default function MapContainer({
           );
         })()}
       </div>
+
     </div>
   );
 }

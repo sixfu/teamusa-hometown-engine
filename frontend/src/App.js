@@ -5,6 +5,7 @@ import MapContainer from './components/MapContainer';
 import HomtownDetail from './components/HomtownDetail';
 import ExploreMode from './components/ExploreMode';
 import CompareMode from './components/CompareMode';
+import SportFinder from './components/SportFinder';
 import { getHometowns, getSports, getHometownsByState, getMapObservation, getMapObservationFromList } from './services/api';
 
 function App() {
@@ -182,6 +183,7 @@ function App() {
                 onFilterModeChange={handleFilterModeChange}
                 athleteType={athleteType}
               />
+              <SportFinder />
             </main>
           </div>
         </>

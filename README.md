@@ -15,6 +15,7 @@ The application is powered by a Python Flask backend, a React frontend, and Goog
 - **Hometown DNA**: Get detailed insights for each hometown, including top sports and AI-generated stories.
 - **Sport Hubs**: Identify "Sport Leader" cities that are hotspots for specific sports based on athlete count and concentration.
 - **Conversational Agent**: Ask natural language questions about the data (e.g., "Which city has produced the most swimmers?").
+- **Find your Matched Sport**: Optional input your height, weight, hometown to discover personalized sport matches based on realy athlete body characteristics in your region.
 
 ## Project Structure
 
